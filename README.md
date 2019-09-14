@@ -10,7 +10,7 @@ Computer Vision Nanodegree Program from Udacity, Facebook scholarship
 
 ## Pre-knowledge
 - Basic Python
-- Python for ML
+- Python for DL
 - Deep Learning
 
 ## Get start
