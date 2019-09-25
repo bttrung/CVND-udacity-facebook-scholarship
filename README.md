@@ -20,16 +20,17 @@ Computer Vision Nanodegree Program from Udacity, Facebook scholarship
 
 ### Computer Vision Pipeline
 - Input data: Images
-- Pre-processing:
+- Pre-processing: means standardizing the input images
   - Noice reduction
   - Scaling
   - Changing color spaces
- - Selecting areas of internet
+- Selecting areas of internet: 
   - Object Detection
   - Image segmentation
- - Feature extraction: extracting data about features
- - Predicttion / Recognition
+- Feature extraction: extracting data about features
+- Predicttion / Recognition: 
   - Object recognition
   - Feature matching
+
 
 - [CVND exercises](https://github.com/bttrung/CVND_Exercises)
