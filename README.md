@@ -17,6 +17,9 @@ Computer Vision Nanodegree Program from Udacity, Facebook scholarship
 ### Definitions
 - Cognitive intelligence
 - Emotional intelligence
+- Gradient descent: is a a mathematical way to minimize error in a neural network
+- Convolutional neural networks: are a specific type of neural network that are commonly used in computer vision applications
+
 
 ### Computer Vision Pipeline
 - Input data: Images
@@ -33,4 +36,9 @@ Computer Vision Nanodegree Program from Udacity, Facebook scholarship
   - Feature matching
 
 
+### Exercises
 - [CVND exercises](https://github.com/bttrung/CVND_Exercises)
+
+
+### Softwares / References
+- https://www.affectiva.com/experience-it/
