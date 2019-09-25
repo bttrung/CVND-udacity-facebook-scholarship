@@ -14,4 +14,22 @@ Computer Vision Nanodegree Program from Udacity, Facebook scholarship
 - Deep Learning
 
 ## Get start
+### Definitions
+- Cognitive intelligence
+- Emotional intelligence
+
+### Computer Vision Pipeline
+- Input data: Images
+- Pre-processing:
+  - Noice reduction
+  - Scaling
+  - Changing color spaces
+ - Selecting areas of internet
+  - Object Detection
+  - Image segmentation
+ - Feature extraction: extracting data about features
+ - Predicttion / Recognition
+  - Object recognition
+  - Feature matching
+
 - [CVND exercises](https://github.com/bttrung/CVND_Exercises)
