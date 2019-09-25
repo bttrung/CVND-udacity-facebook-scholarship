@@ -14,3 +14,4 @@ Computer Vision Nanodegree Program from Udacity, Facebook scholarship
 - Deep Learning
 
 ## Get start
+- [CVND exercises](https://github.com/bttrung/CVND_Exercises)
