@@ -2,6 +2,7 @@
 
 ### Definitions
 - RGB
+- HSV
 - Color Threasholds
 
 
