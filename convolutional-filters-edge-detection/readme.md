@@ -8,6 +8,14 @@
 - Gradients: are a measure of intensity change in an image
 - Sobel filter: commonly used in edge detection and in finding patterns in intensity in an image. Applying a Sobel filter to an image is a way of taking (an approximation) of the derivative of the image
 - The Magnitude of the gradient: is just the square root of the squares of the individual x and y gradients
-
+- Low-pass filters:
+  - Blur/smooth an image
+  - Block high-frequency parts of an image
+- Gaussian Blur: 
+  - Blur/smooth image
+  - Block high-frequenct parts
+  - Preserve edges
+  - [Math behind](https://en.wikipedia.org/wiki/Gaussian_blur)
+  - [OpenCV Gaussian](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_filtering/py_filtering.html)
 
 
