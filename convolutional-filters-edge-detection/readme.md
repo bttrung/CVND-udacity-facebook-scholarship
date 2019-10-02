@@ -4,6 +4,8 @@
 - Filter
 - Edge
 - High-pass Filters
+- Low-pass filter
+- High frequency noise
 - Kernel convolution
 - Gradients: are a measure of intensity change in an image
 - Sobel filter: commonly used in edge detection and in finding patterns in intensity in an image. Applying a Sobel filter to an image is a way of taking (an approximation) of the derivative of the image
@@ -17,5 +19,7 @@
   - Preserve edges
   - [Math behind](https://en.wikipedia.org/wiki/Gaussian_blur)
   - [OpenCV Gaussian](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_filtering/py_filtering.html)
-
+- [Candy Edge Detection](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html)
+- Non-maximum suppression
+- Hysteresis
 
