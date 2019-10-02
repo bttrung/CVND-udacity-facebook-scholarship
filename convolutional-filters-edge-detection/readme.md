@@ -22,4 +22,4 @@
 - [Candy Edge Detection](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html)
 - Non-maximum suppression
 - Hysteresis
-
+- [Hough Transform](http://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm)
