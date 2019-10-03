@@ -42,3 +42,5 @@ Computer Vision Nanodegree Program from Udacity, Facebook scholarship
 
 ### Softwares / References
 - https://www.affectiva.com/experience-it/
+- http://aishack.in/category/computer-vision/
+
