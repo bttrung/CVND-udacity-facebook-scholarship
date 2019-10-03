@@ -9,5 +9,7 @@
 - Opening: erosion followed by dilation -> useful for noice reduction
 - Closing: is the reverse combination of opening: it’s dilation followed by erosion, which is useful in closing small holes or dark areas within an object
 
+- Image Contours: continous curves that follow the edges along a boundary
+
 ## References
 - [Harris Corner Detection](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html)
