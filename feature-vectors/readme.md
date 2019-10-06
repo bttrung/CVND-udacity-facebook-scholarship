@@ -21,4 +21,7 @@
 
 - Intensity centroid
 - Feature matching
-
+- [HOG algorithm](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_histograms/py_table_of_contents_histograms/py_table_of_contents_histograms.html):
+  - Histogram of Oriented Gradients
+  - Oriented Gradients: the direction of image gradients
+  - HOG feature vectors
