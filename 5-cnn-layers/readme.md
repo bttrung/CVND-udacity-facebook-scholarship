@@ -13,6 +13,18 @@
 - Optimizer
 - Cross Entropy Loss
 
+### Tips
+- How can you decide on a network structure? How many layers? When to include dropout layers?...
+--> You are encouraged to:
+  - Change the number of convolutional layers and see what happens
+  - Increase the size of convolutional kernels for larger images
+  - Change loss/optimization functions to see how your model responds (especially change your hyperparameters such as learning rate and see what happens -- you will learn more about hyperparameters in the second module of this course)
+  - Add layers to prevent overfitting
+  - Change the batch_size of your data loader to see how larger batch sizes can affect your training
+  - Always watch how much and how quickly your model loss decreases, and learn from improvements as well as mistakes!
+
+
+
 ### References
 - [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
 - [Pytorch NN](https://pytorch.org/docs/stable/nn.html) 
