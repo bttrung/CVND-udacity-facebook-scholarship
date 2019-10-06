@@ -9,8 +9,14 @@
   - Softmax function: take any vector of values as input and returns a vector of the same length whose values are all in the range (0, 1) and, together, these values will add up to 1
   - Dropout layer: to prevent overfitting. Dropout layers essentially turn off certain nodes in a layer with some probability, p. This ensures that all nodes get an equal chance to try and classify different images during training, and it reduces the likelihood that only a few, heavily-weighted nodes will dominate the process
 
+- Loss function
+- Optimizer
+- Cross Entropy Loss
+
 ### References
 - [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
 - [Pytorch NN](https://pytorch.org/docs/stable/nn.html) 
 - [Pytorch Pooling](https://pytorch.org/docs/stable/nn.html#pooling-layers)
 - [Dropout Layer](https://pytorch.org/docs/stable/nn.html#dropout-layers)
+- [Loss Function](https://pytorch.org/docs/master/nn.html#loss-functions)
+- [Optimizer](https://pytorch.org/docs/master/optim.html)
