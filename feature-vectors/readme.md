@@ -2,9 +2,10 @@
 
 ### Definitions
 - Feature vectors
-- ORB algorithm: 
-  - Oriendted Fast and Rotated Brief
+- ORB algorithm: is a very fast algorithm that creates feature vectors from detected keypoints
+  - Oriendted FAST and Rotated BRIEF
   - ORB uses FAST to locate the keypoints in an image
+  - ORB has some great properties: being invariant to rotations, changes in illumination, and noise
   
 - Keypoint: a small region in an image that particulaly distinctive 
 - Binary Feature Vectors
@@ -19,3 +20,5 @@
 - Image pyramid: is a multi-scale representation of a single image that consists of sequence of images at different of resolution
 
 - Intensity centroid
+- Feature matching
+
