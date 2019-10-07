@@ -32,3 +32,5 @@
 - [Dropout Layer](https://pytorch.org/docs/stable/nn.html#dropout-layers)
 - [Loss Function](https://pytorch.org/docs/master/nn.html#loss-functions)
 - [Optimizer](https://pytorch.org/docs/master/optim.html)
+
+- [Implement CNN in details](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_convolutional_neuralnetwork/)
