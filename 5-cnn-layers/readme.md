@@ -13,6 +13,16 @@
 - Optimizer
 - Cross Entropy Loss
 
+## Layers in details
+### Convolutional Layer
+The first layer in this network, that processes the input image directly, is a convolutional layer.
+
+- A convolutional layer takes in an image as input.
+- A convolutional layer, as its name suggests, is made of a set of convolutional filters (which you've already seen and programmed).
+- Each filter extracts a specific kind of feature, ex. a high-pass filter is often used to detect the edge of an object.
+- The output of a given convolutional layer is a set of feature maps (also called activation maps), which are filtered versions of an original input image.
+
+
 ### Tips
 - How can you decide on a network structure? How many layers? When to include dropout layers?...
 --> You are encouraged to:
@@ -22,6 +32,8 @@
   - Add layers to prevent overfitting
   - Change the batch_size of your data loader to see how larger batch sizes can affect your training
   - Always watch how much and how quickly your model loss decreases, and learn from improvements as well as mistakes!
+
+
 
 
 
