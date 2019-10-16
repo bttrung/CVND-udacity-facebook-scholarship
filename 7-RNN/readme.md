@@ -19,3 +19,5 @@
 - [Time Delay Neural Network](https://en.wikipedia.org/wiki/Time_delay_neural_network)
 - [MSE](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [ReLU and Softmax Activation Functions](https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions)
+- [Backpropagation example](https://www.anotsorandomwalk.com/backpropagation-example-with-numbers-step-by-step/)
+- [Backpropagation step by step](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
