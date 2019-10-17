@@ -11,6 +11,12 @@
 - MSE: Mean Squared Error
 - Cross Entropy
 - Activation function
+- Partial Derivaties
+- Learning Rate
+- Loss Function
+- Linear Combination
+- Chain Rule
+- Mini Batch Training: update the weight once every N steps
 
 ### References
 - [Video Classification Method](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/May/5af0e03b_video-classification/video-classification.pdf)
@@ -21,3 +27,7 @@
 - [ReLU and Softmax Activation Functions](https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions)
 - [Backpropagation example](https://www.anotsorandomwalk.com/backpropagation-example-with-numbers-step-by-step/)
 - [Backpropagation step by step](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+- [Partial Derivatives](http://www.columbia.edu/itc/sipa/math/calc_rules_multivar.html)
+- [Common Derivatives](http://tutorial.math.lamar.edu/pdf/Common_Derivatives_Integrals.pdf)
+- [Turning learning rate](http://blog.datumbox.com/tuning-the-learning-rate-in-gradient-descent/)
+- [Loss Function](http://cs231n.github.io/neural-networks-3/#loss)
