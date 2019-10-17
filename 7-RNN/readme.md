@@ -17,6 +17,19 @@
 - Linear Combination
 - Chain Rule
 - Mini Batch Training: update the weight once every N steps
+- Elman Network
+- RNN Folded Model
+- RNN Unfolded Model
+- Backpropagation Through Time
+
+### Explains
+There are two main differences between FFNNs and RNNs. The Recurrent Neural Network uses:
+- sequences as inputs in the training phase, and
+- memory elements
+
+Memory is defined as the output of hidden layer neurons, which will serve as additional input to the network during next training step.
+
+The basic three layer neural network with feedback that serve as memory inputs is called the Elman Network
 
 ### References
 - [Video Classification Method](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/May/5af0e03b_video-classification/video-classification.pdf)
