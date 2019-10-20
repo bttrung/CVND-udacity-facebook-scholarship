@@ -1,6 +1,9 @@
 # CVND-udacity-facebook-scholarship
 Computer Vision Nanodegree Program from Udacity, Facebook scholarship
 
+## Best Practices
+- [Git Commit Message Style](http://udacity.github.io/git-styleguide/)
+
 ## Tips to success learning
 - Set goals and accountability measures
 - Breakdown goals into smaller goals
@@ -44,4 +47,3 @@ Computer Vision Nanodegree Program from Udacity, Facebook scholarship
 - https://www.affectiva.com/experience-it/
 - http://aishack.in/category/computer-vision/
 - https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_convolutional_neuralnetwork/
-
