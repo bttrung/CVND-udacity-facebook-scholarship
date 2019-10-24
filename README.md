@@ -48,7 +48,7 @@ Computer Vision Nanodegree Program from Udacity, Facebook scholarship
 - http://aishack.in/category/computer-vision/
 - https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_convolutional_neuralnetwork/
 - https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f
-
+- https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
 
 ### Dataset
 - [COCO dataset](http://cocodataset.org/#home)
